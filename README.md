@@ -4,3 +4,5 @@ Project carried out in M1, consisting in developing and training an AI to drive 
 
 The circuit corresponds to the "JuniaRacer.py" file and the driver to the "pauline.py" file in the drivers file (and the training of the model in the "entrainement" folder).
 The AI was performed via a neural network.
+
+Several maps available : bg71/41, bg72/42 and bg73/43
